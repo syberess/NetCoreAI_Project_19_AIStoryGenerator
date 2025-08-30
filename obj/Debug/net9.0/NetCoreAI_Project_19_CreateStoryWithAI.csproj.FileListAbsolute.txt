@@ -1,0 +1,14 @@
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI_Project_19_CreateStoryWithAI.exe
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI_Project_19_CreateStoryWithAI.deps.json
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI_Project_19_CreateStoryWithAI.runtimeconfig.json
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI_Project_19_CreateStoryWithAI.dll
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_19_CreateStoryWithAI\bin\Debug\net9.0\NetCoreAI_Project_19_CreateStoryWithAI.pdb
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI_Project_19_CreateStoryWithAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI_Project_19_CreateStoryWithAI.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI_Project_19_CreateStoryWithAI.AssemblyInfo.cs
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI_Project_19_CreateStoryWithAI.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI_Project_19_CreateStoryWithAI.dll
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_19_CreateStoryWithAI\obj\Debug\net9.0\refint\NetCoreAI_Project_19_CreateStoryWithAI.dll
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI_Project_19_CreateStoryWithAI.pdb
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_19_CreateStoryWithAI\obj\Debug\net9.0\NetCoreAI_Project_19_CreateStoryWithAI.genruntimeconfig.cache
+C:\Users\monster\source\repos\NetCoreAI\NetCoreAI_Project_19_CreateStoryWithAI\obj\Debug\net9.0\ref\NetCoreAI_Project_19_CreateStoryWithAI.dll
